@@ -126,3 +126,4 @@ const formatTime = (segundos) => {
 
     return `${formatMins} : ${formatSecs}`
 }
+

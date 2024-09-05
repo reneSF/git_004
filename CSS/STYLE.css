@@ -21,7 +21,7 @@ body{
 .musica{
     width: 75%;
     height: 90%;
-    background-color: blue;
+    background-color: rgb(207, 222, 139);
 }
 
 
@@ -55,7 +55,7 @@ body{
 }
 
 .textoopcion:hover{
-    color: brown;
+    color: rgb(40, 129, 74);
     cursor: pointer;
 }
 
@@ -77,15 +77,15 @@ body{
 .btnSearch {
     width: 15%;
     height: 60%;
-    background-color: brown;
+    background-color: rgb(39, 100, 41);
     border-radius: 10px;
     color:white;
     font-size: 20px;
 }
 
 .btnSearch:hover{
-    background-color: chartreuse;
-    color: aquamarine;
+    background-color: rgb(0, 0, 0);
+    color: rgb(18, 135, 12);
 }
 
 
