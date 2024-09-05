@@ -26,6 +26,8 @@ body{
 
 
 
+
+
 .logo {
     display: flex;
     flex-direction: row;
@@ -84,4 +86,40 @@ body{
 .btnSearch:hover{
     background-color: chartreuse;
     color: aquamarine;
+}
+
+
+.imagen {
+    width: 240px;
+    height: 240px;
+    border-radius: 3px;
+}
+
+.artista {
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.artistaIMG {
+    width: 25%;
+}
+
+.artistaInfo {
+    width: 70%;
+    height: 100px;
+}
+
+.renglonCancion {
+    width: 95%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.musicaBusqueda{
+    height:65vh;
+    overflow-y: scroll;
 }
